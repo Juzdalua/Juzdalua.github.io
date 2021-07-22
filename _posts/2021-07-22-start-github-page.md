@@ -38,7 +38,11 @@ fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 
 근데 이 테마는 한글로 된 블로그 가이드라인이 별로 없다는 것. ~~(내가 못찾는건가...)~~
 
+<br/>
+
 ---
+
+<br/>
 
 # Difference of beautiful-jekyll
 
@@ -47,6 +51,8 @@ fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 내가 이틀동안 찾아보며 찾은 핵심은
 
 <mark style='background-color: #ffdce0'>**category** folder와 **pages** folder.</mark>
+
+<br/>
 
 *minimal-mistakes*에서 **\_pages** 폴더를 사용했다면
 
@@ -60,6 +66,8 @@ fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 
 ---
 
+  <br/>
+
 # Add Category
 
 Github Blog는 기본적으로 Categoty 또는 Sitemap을 제공하지 않는다고 한다.
@@ -70,6 +78,8 @@ Github Blog는 기본적으로 Categoty 또는 Sitemap을 제공하지 않는다
 
 ---
 
+   <br/>
+
 # Write Category by post
 
 **<mark style='background-color: #ffdce0'>post를 작성할 때 category 입력해주기!</mark>**
@@ -77,6 +87,8 @@ Github Blog는 기본적으로 Categoty 또는 Sitemap을 제공하지 않는다
 ![image](https://user-images.githubusercontent.com/34051263/126595827-16d59dc2-4d51-4f2e-862d-0cae1a3798c1.png)
 
 ---
+
+  <br/>
 
 # Category.html
 
