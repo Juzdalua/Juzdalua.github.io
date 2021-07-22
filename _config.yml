@@ -15,8 +15,8 @@ author: Jun
 
 navbar-links:
   Note:
-    - Tech: "https://naver.com"
-    - Diary: "diary"
+    - Study: "/category/Study"
+    - Diary: "/category/diary"
   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
