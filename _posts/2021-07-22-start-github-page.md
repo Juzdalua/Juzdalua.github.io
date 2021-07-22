@@ -3,7 +3,6 @@ title: "Github Page 만들기"
 subtitle: "테마 적용하기"
 layout: "post"
 permalink: "dairy"
-comments: true
 tags: [Github Blog]
 ---
 
