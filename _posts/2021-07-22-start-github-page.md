@@ -50,7 +50,7 @@ fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 
 이유는 나도 모르겠다.
 
-하위링크가 없는 단일 page라면 permalink를 지정해주자.
+==하위링크가 없는 단일 page라면 permalink를 지정해주자.==
 
 ![image](https://user-images.githubusercontent.com/34051263/126595900-606d3f44-d646-4336-b779-e6d464f5dcb0.png)
 
