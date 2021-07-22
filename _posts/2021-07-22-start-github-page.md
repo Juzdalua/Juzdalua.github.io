@@ -16,7 +16,11 @@ Anyway, 나는 Ruby를 모른다. Teminal도 익숙하지 않다. **(Github Desk
 
 간지나는 Blog를 갖고싶었다.
 
+<br/>
+
 ---
+
+<br/>
 
 남들 다 만드는 minimal-mistakes 테마를 적용했다.
 
@@ -31,6 +35,8 @@ Fork만 누르면 바로 적용되다니... 너무 신세계다.
 fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 
 근데 이 테마는 한글로 된 블로그 가이드라인이 별로 없다는 것. ~~(내가 못찾는건가...)~~
+
+---
 
 # Difference of beautiful-jekyll
 
