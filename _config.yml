@@ -15,7 +15,7 @@ author: Jun
 
 navbar-links:
   Note:
-    - Study: "/category/study"
+    - Study: "/category/Study"
     - Diary: "/category/diary"
   About Me: "aboutme"
 #   Resources:
