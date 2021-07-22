@@ -20,7 +20,7 @@ Anyway, 나는 Ruby를 모른다. Teminal도 익숙하지 않다. **(Github Desk
 
 남들 다 만드는 minimal-mistakes 테마를 적용했다.
 
-![<src=""/assets/img/2021-07-22-start-github-page" />](C:\Users\Jun\AppData\Roaming\Typora\typora-user-images\image-20210722133244402.png)
+![blog](https://user-images.githubusercontent.com/34051263/126591169-1e8fdf49-84ad-4e70-bb0e-0a973ee0f879.png)
 
 Fork만 누르면 바로 적용되다니... 너무 신세계다.
 
