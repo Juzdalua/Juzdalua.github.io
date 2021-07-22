@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Study note
+title: study
 permalink: category/study
 ---

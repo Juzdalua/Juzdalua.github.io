@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Diary note
+title: diary
 permalink: category/diary
 ---
