@@ -1,9 +1,7 @@
 ---
 title: "Github Page 만들기"
-subtitle: "테마 적용하기"
 layout: "post"
-category: "diary"
-tags: [Github Blog]
+permalink: "dairy"
 ---
 
 온라인 보험영업으로 Naver Blog에서만 Posting해오던 나에게
@@ -23,3 +21,41 @@ Anyway, 나는 Ruby를 모른다. Teminal도 익숙하지 않다. **(Github Desk
 ![blog](https://user-images.githubusercontent.com/34051263/126591169-1e8fdf49-84ad-4e70-bb0e-0a973ee0f879.png)
 
 Fork만 누르면 바로 적용되다니... 너무 신세계다.
+
+근데 이 테마는 너무 흔하다.
+
+**_very common theme.._**
+
+fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
+
+근데 이 테마는 한글로 된 블로그 가이드라인이 별로 없다는 것. ~~(내가 못찾는건가...)~~
+
+\_config.yml은 모두가 알겠지만
+
+내가 이틀동안 찾아보며 찾은 핵심은
+
+**category** folder와 **pages** folder.
+
+*minimal-mistakes*에서 **\_pages** 폴더를 사용했다면
+
+*beautiful-jekyll*에서는 **pages** 폴더를 사용해야한다.
+
+이유는 나도 모르겠다.
+
+==하위링크가 없는 단일 page라면 permalink를 지정해주자.==
+
+![image](https://user-images.githubusercontent.com/34051263/126595900-606d3f44-d646-4336-b779-e6d464f5dcb0.png)
+
+---
+
+Github Blog는 기본적으로 Categoty 또는 Sitemap을 제공하지 않는다고 한다.
+
+==그래서 따로 만들어줘야한다.==
+
+![image](https://user-images.githubusercontent.com/34051263/126595558-1f146f39-dc31-4688-8623-35746ba2bedf.png)
+
+---
+
+==post를 작성할 때 category 입력해주기!==
+
+![image](https://user-images.githubusercontent.com/34051263/126595827-16d59dc2-4d51-4f2e-862d-0cae1a3798c1.png)
