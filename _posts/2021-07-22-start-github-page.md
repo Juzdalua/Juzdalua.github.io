@@ -73,3 +73,34 @@ post를 작성할 때 category 입력해주기!
 ![image](https://user-images.githubusercontent.com/34051263/126595827-16d59dc2-4d51-4f2e-862d-0cae1a3798c1.png)
 
 <br/>
+
+---
+
+**\_layout/category.html**을 만들어준다
+
+```html
+---
+layout: default
+---
+
+<ul class="posts-list">
+  {% assign category = page.category | default: page.title %}
+  <h4>Posts in {{ category }} ({{ site.categories[category].size }})</h4>
+  {% for post in site.categories[category] %}
+  <li>
+    <a class="post-title" href="{{ site.baseurl }}{{ post.url }}"
+      >{{ post.title }}</a
+    >
+    <small
+      ><time>
+        {{ post.date | date:"%F" }} {{ post.date | date: "%a" }}.
+      </time></small
+    >
+  </li>
+  {% endfor %}
+</ul>
+```
+
+![image](https://user-images.githubusercontent.com/34051263/126598602-c6eb71fa-7537-4861-94cc-6c94746c2b7d.png)
+
+짜잔 완성~
