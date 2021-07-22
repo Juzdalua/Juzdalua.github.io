@@ -17,9 +17,9 @@ author: Jun
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Note: 
-    -Tech:"https://naver.com"
-    -Diary:"https://naver.com"
+#   Note: 
+#     -Tech:"https://naver.com"
+#     -Diary:"https://naver.com"
   
   About Me: "aboutme"   
 #   Resources:
