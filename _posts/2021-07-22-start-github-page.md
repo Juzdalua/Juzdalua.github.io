@@ -2,7 +2,8 @@
 title: "Github Page 만들기"
 subtitle: "테마 적용하기"
 layout: "post"
-category: "dairy"
+category: "diary"
+tags: [Github Blog]
 ---
 
 온라인 보험영업으로 Naver Blog에서만 Posting해오던 나에게
@@ -59,7 +60,7 @@ fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 
 Github Blog는 기본적으로 Categoty 또는 Sitemap을 제공하지 않는다고 한다.
 
-==그래서 따로 만들어줘야한다.==
+그래서 따로 만들어줘야한다.
 
 ![image](https://user-images.githubusercontent.com/34051263/126595558-1f146f39-dc31-4688-8623-35746ba2bedf.png)
 
@@ -67,7 +68,7 @@ Github Blog는 기본적으로 Categoty 또는 Sitemap을 제공하지 않는다
 
 ---
 
-==post를 작성할 때 category 입력해주기!==
+post를 작성할 때 category 입력해주기!
 
 ![image](https://user-images.githubusercontent.com/34051263/126595827-16d59dc2-4d51-4f2e-862d-0cae1a3798c1.png)
 
