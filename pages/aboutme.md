@@ -1,3 +1,11 @@
+---
+layout: page
+title: About me
+subtitle: ""
+permalink: "aboutme"
+---
+
+
 4년간 다른 분야에서 활동했습니다.
 
 그리고 이루지 못한 꿈을 다시 찾기 위해 돌아왔습니다.
