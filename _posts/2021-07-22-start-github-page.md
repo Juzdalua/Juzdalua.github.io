@@ -1,7 +1,10 @@
 ---
 title: "Github Page 만들기"
+subtitle: "테마 적용하기"
 layout: "post"
-category: "dairy"
+permalink: "dairy"
+comments: true
+tags: [Github Blog]
 ---
 
 온라인 보험영업으로 Naver Blog에서만 Posting해오던 나에게
