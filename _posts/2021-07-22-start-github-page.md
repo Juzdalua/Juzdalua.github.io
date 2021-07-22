@@ -5,7 +5,6 @@ layout: "post"
 category: "diary"
 tags: [Github Blog]
 toc: true
-toc_sticky: true
 ---
 
 온라인 보험영업으로 Naver Blog에서만 Posting해오던 나에게
@@ -50,7 +49,7 @@ fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 
 내가 이틀동안 찾아보며 찾은 핵심은
 
-<mark style='background-color: #ffdce0'>**category** folder와 **pages** folder.</mark>
+**<mark style='background-color: #ffdce0'>category folder와 pages folder.</mark>**
 
 <br/>
 
@@ -92,7 +91,7 @@ Github Blog는 기본적으로 Categoty 또는 Sitemap을 제공하지 않는다
 
 # Category.html
 
-<mark style='background-color: #ffdce0'>**\_layout/category.html**을 만들어준다</mark>
+**<mark style='background-color: #ffdce0'>\_layout/category.html을 만들어준다</mark>**
 
 ```html
 ---
