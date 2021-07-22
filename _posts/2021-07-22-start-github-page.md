@@ -40,7 +40,7 @@ fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 
 내가 이틀동안 찾아보며 찾은 핵심은
 
-**category** folder와 **pages** folder.
+<mark style='background-color: #ffdce0'>**category** folder와 **pages** folder.</mark>
 
 <br/>
 
@@ -50,7 +50,7 @@ fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 
 이유는 나도 모르겠다.
 
-==하위링크가 없는 단일 page라면 permalink를 지정해주자.==
+**<mark style='background-color: #ffdce0'>하위링크가 없는 단일 page라면 permalink를 지정해주자.</mark>**
 
 ![image](https://user-images.githubusercontent.com/34051263/126595900-606d3f44-d646-4336-b779-e6d464f5dcb0.png)
 
@@ -60,7 +60,7 @@ fixed bar를 좋아하는 나에게 beautiful-jekyll이 딱이었다.
 
 Github Blog는 기본적으로 Categoty 또는 Sitemap을 제공하지 않는다고 한다.
 
-==그래서 따로 만들어줘야한다.==
+**<mark style='background-color: #ffdce0'>그래서 따로 만들어줘야한다.</mark>**
 
 ![image](https://user-images.githubusercontent.com/34051263/126595558-1f146f39-dc31-4688-8623-35746ba2bedf.png)
 
@@ -68,7 +68,7 @@ Github Blog는 기본적으로 Categoty 또는 Sitemap을 제공하지 않는다
 
 ---
 
-post를 작성할 때 category 입력해주기!
+**<mark style='background-color: #ffdce0'>post를 작성할 때 category 입력해주기!</mark>**
 
 ![image](https://user-images.githubusercontent.com/34051263/126595827-16d59dc2-4d51-4f2e-862d-0cae1a3798c1.png)
 
@@ -76,7 +76,7 @@ post를 작성할 때 category 입력해주기!
 
 ---
 
-**\_layout/category.html**을 만들어준다
+<mark style='background-color: #ffdce0'>**\_layout/category.html**을 만들어준다</mark>
 
 ```html
 ---
