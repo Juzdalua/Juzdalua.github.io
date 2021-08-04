@@ -7,9 +7,6 @@ tags: [Clean Code]
 ---
 
 
-
-# Clean Code 만들기
-
 <br><br>
 
 ## 1. 삼항연산자 (Ternary Operator)
