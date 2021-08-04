@@ -4,7 +4,7 @@ subtitle: 짧은 코드로 변경하기
 layout: post
 category: study
 tags: [Clean Code]
-image:![image](https://user-images.githubusercontent.com/34051263/128224128-f5b809d8-0d65-4aeb-aae9-b3001246d80b.png)
+image: https://user-images.githubusercontent.com/34051263/128224128-f5b809d8-0d65-4aeb-aae9-b3001246d80b.png
 ---
 
 
