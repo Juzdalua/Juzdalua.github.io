@@ -4,6 +4,7 @@ subtitle: "테마 적용하기"
 layout: "post"
 category: "diary"
 tags: [Github Blog]
+image: 'https://user-images.githubusercontent.com/34051263/128224952-3ee9a929-f607-40f2-882c-f00d53baea1f.png'
 ---
 
 온라인 보험영업으로 Naver Blog에서만 Posting해오던 나에게
