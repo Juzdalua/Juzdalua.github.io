@@ -31,8 +31,8 @@ return req.session.loggedIn === true ? next() : res.redirect("/");
 
 훨씬 깔끔하다.   <br>
 
-##### 참고) https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Conditional_Operator   <br>
-
+##### 참고) https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+<br>  
 
 
 ## 2. ES6 Parameter 받아오기
@@ -54,9 +54,8 @@ const password = req.body.password;
 const { id, password } = req.body;
 ```
 
-끝이다.  <br>
-
-
+끝이다.
+<br>  
 
 ## 3. 널 병합 연산자 (Nullish Coalescing Operator) ??
 
