@@ -4,7 +4,7 @@ subtitle: "테마 적용하기"
 layout: "post"
 category: "diary"
 tags: [Github Blog]
-image: 'https://user-images.githubusercontent.com/34051263/128224952-3ee9a929-f607-40f2-882c-f00d53baea1f.png'
+image: https://user-images.githubusercontent.com/34051263/133181312-31c4a43c-5136-462f-b696-9f1023cacca0.png
 ---
 
 남들 다 만드는 minimal-mistakes 테마를 적용했다.
