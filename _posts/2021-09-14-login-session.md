@@ -4,6 +4,7 @@ subtitle: ES6, nodeJS, MongoDB
 layout: post
 category: study
 tags: [Login Session]
+image: https://user-images.githubusercontent.com/34051263/133180725-359dd237-7097-491b-8f51-4362b1a505d9.png
 ---
 
 # nodeJS에서 Session을 활용한 Login
