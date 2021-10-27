@@ -17,6 +17,8 @@ navbar-links:
   Note:
     - Study: "/category/study"
     - Diary: "/category/diary"
+  Portfolio
+    - Memorable-games: "https://memorable-games.herokuapp.com/"
   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
