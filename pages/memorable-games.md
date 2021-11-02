@@ -20,8 +20,6 @@ toc_sticky: true
 
   <a href="https://github.com/Juzdalua/memorable-games">https://github.com/Juzdalua/memorable-games</a>
 
-<br> <br>
-
 <br> <br> 
 
 ## Language & Tool
