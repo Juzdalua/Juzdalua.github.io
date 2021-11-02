@@ -13,9 +13,9 @@ toc_sticky: true
 
 ## Url
 
-홈페이지 : https://memorable-games.herokuapp.com/
+홈페이지 : https://memorable-games.herokuapp.com/ 
 
-Github Repository : https://github.com/Juzdalua/memorable-games
+Github Repository : https://github.com/Juzdalua/memorable-games 
 
 <br> <br> 
 
