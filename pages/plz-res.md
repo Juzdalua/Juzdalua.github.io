@@ -13,7 +13,7 @@ toc_sticky: true
 ## URL
 * Github repository
 
-  https://github.com/Juzdalua/final</a>
+  https://github.com/Juzdalua/final
 
 <br>
 
