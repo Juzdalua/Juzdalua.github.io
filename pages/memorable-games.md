@@ -1,9 +1,8 @@
 ---
-title: "Github Page 만들기"
-subtitle: "테마 적용하기"
-layout: "post"
+title: "기억에 남는 게임을 공유하는 페이지"
+layout: "page"
 permalink: "memorable-games"
-tags: [Github Blog]
+tags: [memorable-games, 포트폴리오]
 toc: true
 toc_sticky: true
 ---
