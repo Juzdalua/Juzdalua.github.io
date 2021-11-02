@@ -1,6 +1,6 @@
 ---
 title: "예메를 부탁해"
-subtitle: "CGV-clone"
+subtitle: "Megabox-clone"
 layout: "page"
 permalink: "plz-res"
 tags: [plz-res, portfolio]
