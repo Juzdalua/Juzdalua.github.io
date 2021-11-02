@@ -12,7 +12,9 @@ toc_sticky: true
 
 ## URL
 
-Github repository : https://github.com/Juzdalua/final2
+Github repository
+
+https://github.com/Juzdalua/final2
 
 <br>
 
