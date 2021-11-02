@@ -13,15 +13,11 @@ toc_sticky: true
 ## URL
 * Github repository
 
-  [https://github.com/Juzdalua/final2](https://github.com/Juzdalua/final2)
+  https://github.com/Juzdalua/final</a>
 
 <br>
 
 <br>
-
-<br>
-
-<Br>
 
 
 
