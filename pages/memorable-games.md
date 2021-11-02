@@ -3,7 +3,7 @@ title: "Memorable-games"
 subtitle: "기억에 남는 게임을 공유하는 페이지"
 layout: "page"
 permalink: "memorable-games"
-tags: [Github Blog]
+tags: [memorable-games, portfolio]
 toc: true
 toc_sticky: true
 
