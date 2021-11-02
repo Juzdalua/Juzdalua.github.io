@@ -1,4 +1,4 @@
-```
+---
 title: "예메를 부탁해"
 subtitle: "CGV-clone"
 layout: "page"
@@ -6,7 +6,7 @@ permalink: "plz-res"
 tags: [plz-res, portfolio]
 toc: true
 toc_sticky: true
-```
+---
 
 
 
