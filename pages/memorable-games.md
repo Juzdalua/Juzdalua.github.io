@@ -14,11 +14,13 @@ toc_sticky: true
 ## Url
 * 홈페이지
 
-   [https://memorable-games.herokuapp.com/](https://memorable-games.herokuapp.com/)
+  <a href="https://memorable-games.herokuapp.com/">https://memorable-games.herokuapp.com/ </a>
 
 * Github Repository 
 
-  [https://github.com/Juzdalua/memorable-games](https://github.com/Juzdalua/memorable-games)
+  <a href="https://github.com/Juzdalua/memorable-games">https://github.com/Juzdalua/memorable-games</a>
+
+<br> <br>
 
 <br> <br> 
 
