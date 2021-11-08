@@ -19,7 +19,7 @@ navbar-links:
     - Diary: "/category/diary"
   Portfolio:
     - Memorable-games: "memorable-games"
-    - 예메를 부탁해 : "plz-res"
+    - 예매를 부탁해 : "plz-res"
   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
