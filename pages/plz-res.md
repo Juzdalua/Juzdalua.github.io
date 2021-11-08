@@ -1,5 +1,5 @@
 ---
-title: "예메를 부탁해"
+title: "예매를 부탁해"
 subtitle: "Megabox-clone"
 layout: "page"
 permalink: "plz-res"
