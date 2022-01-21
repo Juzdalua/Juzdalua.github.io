@@ -17,13 +17,15 @@ NodeJS와 RDBMS, Linux 서버관리에 흥미를 갖고 있습니다.<br/>
 ## Work experience
 - 2021.12 ~ 현재 / 뉴비즈스타트
   - PM 겸 백엔드 개발자 
-    - AWS Cloud
-      - EC2/ Pm2를 이용한 무중단 서비스 배포
-      - crontab을 활용한 매월 DB 자동백업시스템 구현
-    - 파일 관리
-      - exceljs를 활용한 DB정보 다운로드 기능 구현
-      - multer / sharp를 활용한 이미지 리사이징 및 용량조절
-      - fs를 활용한 일자별 디렉토리 구성
+	- ### 케어봄
+	 #### 시니어 돌봄 서비스 App
+    	- AWS Cloud
+      		- EC2/ Pm2를 이용한 무중단 서비스 배포
+      		- crontab을 활용한 매월 DB 자동백업시스템 구현
+    	- 파일 관리
+      		- exceljs를 활용한 DB정보 다운로드 기능 구현
+      		- multer / sharp를 활용한 이미지 리사이징 및 용량조절
+      		- fs를 활용한 일자별 디렉토리 구성
 
 <br/>
 
