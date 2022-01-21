@@ -2,7 +2,7 @@
 layout: page
 use-site-title: true
 title: ""
-subtitle: 백엔드 개발자 김준입니다.
+subtitle: 백엔드 개발자 김준입니다.1
 ---
 
 <!-- 
@@ -32,33 +32,33 @@ NodeJS와 RDBMS, Linux 서버관리에 흥미를 갖고 있습니다.<br/>
 <br/>
 ---
 # Skills
-* Back-end
-  + NodeJS
-  + Sequelize
-* DevOps
-  + PostgresQL, MongoDB
-  + AWS EC2
-* Front-end
-  + ReactJS
-  + ES6
+- Back-end
+  - NodeJS
+  - Sequelize
+- DevOps
+  - PostgresQL, MongoDB
+  - AWS EC2
+- Front-end
+  - ReactJS
+  - ES6
 <br/>
 ---
 # About me
-* 김준 
-* 1990년 6월 19일
-* bearwcw@naver.com
+- 김준 
+- 1990년 6월 19일
+- bearwcw@naver.com
 <br/>
 ---
 # Education
-* 2017.07~2017.12 KH정보교육원 국비지원교육.
-  * Based on Java, Oracle and  Spring framework.
-  * Make a theater web site - CGV clone.
-* 2010.03 ~ 2015.02 고려대학교 세종캠퍼스, 컴퓨터정보학과 졸업(학사). 
-  + GPA 2.94
+- 2017.07~2017.12 KH정보교육원 국비지원교육.
+  - Based on Java, Oracle and  Spring framework.
+  - Make a theater web site - CGV clone.
+- 2010.03 ~ 2015.02 고려대학교 세종캠퍼스, 컴퓨터정보학과 졸업(학사). 
+  - GPA 2.94
 <br/>
 ---
 # Certification
-* OPic IM2 (2018.04)
+- OPic IM2 (2018.04)
 
 
 
