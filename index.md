@@ -33,7 +33,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
   - NodeJS
   - Sequelize
 - DevOps
-  - PostgresQL, MongoDB
+  - PostgreSQL, MongoDB
   - AWS EC2
 - Front-end
   - ReactJS
