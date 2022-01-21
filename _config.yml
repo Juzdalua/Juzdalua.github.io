@@ -14,9 +14,9 @@ author: Jun
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Note:
-    - Study: "/category/study"
-    - Diary: "/category/diary"
+#  Note:
+#    - Study: "/category/study"
+#    - Diary: "/category/diary"
   Portfolio:
     - Memorable-games: "memorable-games"
     - 예매를 부탁해 : "plz-res"
