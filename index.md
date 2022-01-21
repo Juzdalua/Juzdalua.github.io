@@ -1,7 +1,6 @@
 ---
 layout: page
 use-site-title: true
-title: ""
 subtitle: 백엔드 개발자 김준입니다.
 ---
 
