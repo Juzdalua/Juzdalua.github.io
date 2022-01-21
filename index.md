@@ -20,12 +20,19 @@ permalink: "aboutme"
 
 <br/>
 
-# 경력
+# Work experience
 * 2021.12 ~ 현재 / 뉴비즈스타트
-  + PM 겸 백엔드 개발자
+  + PM 겸 백엔드 개발자 
+   * AWS Cloud
+    + EC2/ Pm2를 이용한 무중단 서비스 배포
+    + crontab을 활용한 매월 DB 자동백업시스템 구현
+   * 파일 관리
+    + exceljs를 활용한 DB정보 다운로드 기능 구현
+    + multer / sharp를 활용한 이미지 리사이징 및 용량조절
+    + fs를 활용한 일자별 디렉토리 구성
 
 <br/>
-# Skill
+# Skills
 * Back-end
   + NodeJS
   + Sequelize
@@ -37,34 +44,21 @@ permalink: "aboutme"
   + ES6
 
 <br/>
-# 역량
-* AWS Cloud
-  + EC2/ Pm2를 이용한 무중단 서비스 배포
-  + crontab을 활용한 매월 DB 자동백업시스템 구현
-* 파일 관리
-  + exceljs를 활용한 DB정보 다운로드 기능 구현
-  + multer / sharp를 활용한 이미지 리사이징 및 용량조절
-  + fs를 활용한 일자별 디렉토리 구성
-
-<br/>
-# 인적사항
+# About me
 * 김준 
 * 1990년 6월 19일
 * bearwcw@naver.com
 
 <br/>
-# 학력
+# Education
+* 2017.07~2017.12 KH정보교육원 국비지원교육.
+  * Based on Java, Oracle and  Spring framework.
+  * Make a theater web site - CGV clone.
 * 2010.03 ~ 2015.02 고려대학교 세종캠퍼스, 컴퓨터정보학과 졸업(학사). 
   + GPA 2.94
 
 <br/>
-# 교육
-* 2017.07~2017.12 KH정보교육원 국비지원교육.
-  * Based on Java, Oracle and  Spring framework.
-  * Make a theater web site - CGV clone.
-
-<br/>
-# 자격
+# Certification
 * OPic IM2 (2018.04)
 
 
