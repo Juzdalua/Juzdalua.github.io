@@ -1,6 +1,8 @@
 ---
 layout: page
 use-site-title: true
+title: 김준
+subtitle: NodeJS  
 ---
 
 <!-- 
