@@ -2,7 +2,7 @@
 layout: page
 use-site-title: true
 title: ""
-subtitle: 백엔드 개발자 김준입니다.1
+subtitle: 백엔드 개발자 김준입니다.2
 ---
 
 1년차 백엔드 개발자 김준입니다.<br/>
