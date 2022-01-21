@@ -20,7 +20,7 @@ navbar-links:
   Portfolio:
     - Memorable-games: "memorable-games"
     - 예매를 부탁해 : "plz-res"
-  About Me: "aboutme"
+#  About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
