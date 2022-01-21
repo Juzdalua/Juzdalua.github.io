@@ -1,7 +1,7 @@
 ---
 layout: page
 use-site-title: true
-title: About me
+title: 백엔드 개발자 김준입니다.
 subtitle: ""
 ---
 
@@ -14,7 +14,10 @@ permalink: "aboutme"
 --- 
 -->
 
-본분에 충실하고 맡은바 최선을 다하는 개발자입니다.
+1년차 백엔드 개발자 김준입니다.<br/>
+NodeJS와 RDBMS, Linux 서버관리에 흥미를 갖고 있습니다.<br/>
+코드의 가시성, 재사용성을 위해 Layer Architecture를 사용하려 노력합니다.<br/>
+본분에 충실하고 맡은바 최선을 다하는 개발자가 되고자 노력합니다.<br/>
 
 --- 
 
