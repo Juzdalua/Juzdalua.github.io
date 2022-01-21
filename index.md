@@ -43,7 +43,7 @@ permalink: "aboutme"
   + JS
 
 
-<!-- 
+<!-- index.md -> index.html로 바꾸고 시작해라
 ---
 layout: page
 title: Jun
