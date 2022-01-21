@@ -21,11 +21,37 @@ permalink: "aboutme"
 --- 
 
 <br/>
-# 인적사항
 
+# 경력
+* 2021.12 ~ 현재
+  + PM 겸 백엔드 개발자
+
+<br/>
+# Skill
+* Back-end
+  + NodeJS
+  + Sequelize
+* DevOps
+  + PostgresQL
+  + AWS EC2
+* Front-end
+  + ReactJS
+  + ES6
+
+<br/>
+# 역량
+* AWS Cloud
+  + EC2/ Pm2를 이용한 무중단 서비스 배포
+  + crontab을 활용한 매월 DB 자동백업시스템 구현
+* 파일 관리
+  + exceljs를 활용한 DB정보 다운로드 기능 구현
+  + multer / sharp를 활용한 이미지 리사이징 및 용량체크
+  + fs를 활용한 일자별 디렉토리 구성
+
+# 인적사항
 * 김준 
 * 1990년 6월 19일
-* bearwcw@naver.coåm
+* bearwcw@naver.com
 
 <br/>
 # 학력
@@ -42,14 +68,7 @@ permalink: "aboutme"
 # 자격
 * OPic IM2 (2018.04)
 
-<br/>
-# Skill Sets
-* Back-end
-  + MongoDB
-  + NodeJS
-* Front-end
-  + HTML, CSS
-  + JS
+
 
 
 <!-- index.md -> index.html로 바꾸고 시작해라
