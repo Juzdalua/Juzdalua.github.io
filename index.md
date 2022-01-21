@@ -30,7 +30,7 @@ permalink: "aboutme"
   + NodeJS
   + Sequelize
 * DevOps
-  + PostgresQL
+  + PostgresQL, MongoDB
   + AWS EC2
 * Front-end
   + ReactJS
