@@ -43,7 +43,7 @@ permalink: "aboutme"
   + crontab을 활용한 매월 DB 자동백업시스템 구현
 * 파일 관리
   + exceljs를 활용한 DB정보 다운로드 기능 구현
-  + multer / sharp를 활용한 이미지 리사이징 및 용량체크
+  + multer / sharp를 활용한 이미지 리사이징 및 용량조절
   + fs를 활용한 일자별 디렉토리 구성
 
 <br/>
