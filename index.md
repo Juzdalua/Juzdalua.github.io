@@ -1,6 +1,7 @@
 ---
 layout: page
 use-site-title: true
+title: ""
 subtitle: 백엔드 개발자 김준입니다.
 ---
 
@@ -32,6 +33,7 @@ NodeJS와 RDBMS, Linux 서버관리에 흥미를 갖고 있습니다.<br/>
       - exceljs를 활용한 DB정보 다운로드 기능 구현
       - multer / sharp를 활용한 이미지 리사이징 및 용량조절
       - fs를 활용한 일자별 디렉토리 구성
+<br/>
 --- 
 <br/>
 # Skills
@@ -46,12 +48,14 @@ NodeJS와 RDBMS, Linux 서버관리에 흥미를 갖고 있습니다.<br/>
   + ES6
 <br/>
 --- 
+<br/>
 # About me
 * 김준 
 * 1990년 6월 19일
 * bearwcw@naver.com
 <br/>
 --- 
+<br/>
 # Education
 * 2017.07~2017.12 KH정보교육원 국비지원교육.
   * Based on Java, Oracle and  Spring framework.
@@ -60,6 +64,7 @@ NodeJS와 RDBMS, Linux 서버관리에 흥미를 갖고 있습니다.<br/>
   + GPA 2.94
 <br/>
 --- 
+<br/>
 # Certification
 * OPic IM2 (2018.04)
 
