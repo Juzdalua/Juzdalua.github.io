@@ -5,22 +5,15 @@ title: ""
 subtitle: 백엔드 개발자 김준입니다.1
 ---
 
-<!-- 
----
-layout: page
-title: About me
-subtitle: ""
-permalink: "aboutme"
---- 
--->
-
 1년차 백엔드 개발자 김준입니다.<br/>
 NodeJS와 RDBMS, Linux 서버관리에 흥미를 갖고 있습니다.<br/>
 코드의 가시성, 재사용성을 위해 Layer Architecture를 사용하려 노력합니다.<br/>
 본분에 충실하고 맡은바 최선을 다하는 개발자가 되고자 노력합니다.<br/>
----
+<br/> 
+--- 
+<br/>
 
-# Work experience
+## Work experience
 - 2021.12 ~ 현재 / 뉴비즈스타트
   - PM 겸 백엔드 개발자 
     - AWS Cloud
@@ -31,7 +24,7 @@ NodeJS와 RDBMS, Linux 서버관리에 흥미를 갖고 있습니다.<br/>
       - multer / sharp를 활용한 이미지 리사이징 및 용량조절
       - fs를 활용한 일자별 디렉토리 구성
 
-# Skills
+## Skills
 - Back-end
   - NodeJS
   - Sequelize
@@ -42,25 +35,32 @@ NodeJS와 RDBMS, Linux 서버관리에 흥미를 갖고 있습니다.<br/>
   - ReactJS
   - ES6
 
-# About me
+## About me
 - 김준 
 - 1990년 6월 19일
 - bearwcw@naver.com
 
-# Education
+## Education
 - 2017.07~2017.12 KH정보교육원 국비지원교육.
   - Based on Java, Oracle and  Spring framework.
   - Make a theater web site - CGV clone.
 - 2010.03 ~ 2015.02 고려대학교 세종캠퍼스, 컴퓨터정보학과 졸업(학사). 
   - GPA 2.94
 
-# Certification
+## Certification
 - OPic IM2 (2018.04)
 
 
 
 
 <!-- index.md -> index.html로 바꾸고 시작해라
+---
+layout: page
+title: About me
+subtitle: ""
+permalink: "aboutme"
+--- 
+
 ---
 layout: page
 title: Jun
