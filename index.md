@@ -5,7 +5,7 @@ title: ""
 subtitle: 백엔드 개발자 김준입니다.
 ---
 
-1년차 백엔드 개발자 김준입니다.<br/>
+백엔드 개발자 김준입니다.<br/>
 NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 코드의 가시성, 재사용성을 위해 Layer Architecture를 사용하려 노력합니다.<br/>
 본분에 충실하고 맡은바 최선을 다하는 개발자가 되고자 노력합니다.
@@ -15,16 +15,13 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 <br/>
 
 ## Work experience
-- 2021.12 ~ 현재 / 뉴비즈스타트
-	- PM 겸 백엔드 개발자   
-		- ### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
-			- AWS Cloud
-				- EC2/ Pm2를 이용한 무중단 서비스 배포
-				- crontab을 활용한 매월 DB 자동백업시스템 구현
-			- 파일 관리
-				- exceljs를 활용한 DB정보 다운로드 기능 구현
-				- multer / sharp를 활용한 이미지 리사이징, 용량 및 화질 조절
-				- fs를 활용한 일자별 디렉토리 구성
+- AWS Cloud
+	- EC2/ Pm2를 이용한 무중단 서비스를 배포할 수 있습니다.
+	- crontab을 활용한 매월 DB 자동백업시스템 구현할 수 있습니다.
+- 파일 관리
+	- exceljs를 활용한 DB정보 다운로드 기능을 구현할 수 있습니다.
+	- multer / sharp를 활용한 이미지 리사이징, 용량 및 화질 조절할 수 있습니다.
+	- fs를 활용한 일자별 디렉토리 구성할 수 있습니다.
 
 <br/>
 
