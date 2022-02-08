@@ -18,7 +18,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 - 2021.12 ~ 현재 / 뉴비즈스타트
 	- PM 겸 백엔드 개발자   
 		- ### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
-			#### NodeJS, PostgreSQL, Sequelize
+			NodeJS, PostgreSQL, Sequelize
 			- AWS Cloud
 				- EC2/ Pm2를 이용한 무중단 서비스를 배포할 수 있습니다.				
 			- 파일 관리
@@ -27,7 +27,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 				- fs를 활용한 일자별 디렉토리 구성할 수 있습니다.
 
 		- ### [Spoweek](http://www.spoweek.com) (스포츠 이벤트 서비스 Web)
-			#### Typescript, PostgreSQL, TypeORM
+			Typescript, PostgreSQL, TypeORM
 			- AWS Cloud
 				- crontab을 활용한 매월 DB 자동백업시스템 구현할 수 있습니다.
 			- Data 처리
@@ -46,6 +46,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 	- QueryBuilder, Repository를 주로 이용합니다.
 - DevOps
   - PostgreSQL, MongoDB
+	- RDB를 선호합니다. PostgreSQL을 자주 사용합니다.
   - AWS EC2
 	- Linux를 좋아합니다. 해커가 된 느낌(?)이라 마우스 없는 코딩을 추구합니다.
 - Front-end
