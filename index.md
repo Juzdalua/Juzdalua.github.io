@@ -15,26 +15,46 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 <br/>
 
 ## Work experience
-- AWS Cloud
-	- EC2/ Pm2를 이용한 무중단 서비스를 배포할 수 있습니다.
-	- crontab을 활용한 매월 DB 자동백업시스템 구현할 수 있습니다.
-- 파일 관리
-	- exceljs를 활용한 DB정보 다운로드 기능을 구현할 수 있습니다.
-	- multer / sharp를 활용한 이미지 리사이징, 용량 및 화질 조절할 수 있습니다.
-	- fs를 활용한 일자별 디렉토리 구성할 수 있습니다.
+- 2021.12 ~ 현재 / 뉴비즈스타트
+	- PM 겸 백엔드 개발자   
+		- ### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
+			#### NodeJS, PostgreSQL, Sequelize
+			- AWS Cloud
+				- EC2/ Pm2를 이용한 무중단 서비스를 배포할 수 있습니다.				
+			- 파일 관리
+				- exceljs를 활용한 DB정보 다운로드 기능을 구현할 수 있습니다.
+				- multer / sharp를 활용한 이미지 리사이징, 용량 및 화질 조절할 수 있습니다.
+				- fs를 활용한 일자별 디렉토리 구성할 수 있습니다.
 
+		- ### [Spoweek](http://www.spoweek.com) (스포츠 이벤트 서비스 Web)
+			#### Typescript, PostgreSQL, TypeORM
+			- AWS Cloud
+				- crontab을 활용한 매월 DB 자동백업시스템 구현할 수 있습니다.
+			- Data 처리
+				- DB와 연동된 Admin 페이지 구현. (회원관리, 이벤트관리 등)
 <br/>
 
 ## Skills
 - Back-end
   - NodeJS
+	- Java가 폐쇄적이라 생각하여 선택한 언어입니다. 함수형 프로그래밍을 선호합니다.
+  - Typescript
+	- class와 interface에 익숙하지 않습니다. 그래서 더 공부하고자 합니다.
   - Sequelize
+	- 가장 능숙하게 활용할 수 있는 DB Tool입니다.
+  - TypeORM
+	- QueryBuilder, Repository를 주로 이용합니다.
 - DevOps
   - PostgreSQL, MongoDB
   - AWS EC2
+	- Linux를 좋아합니다. 해커가 된 느낌(?)이라 마우스 없는 코딩을 추구합니다.
 - Front-end
   - ReactJS
+	- VanilaJS가 더욱 익숙합니다. 
+		완벽히 이해하지는 못했지만, 어떻게 구현해야 Backend와 연결할 수 있는지 이해하고 있습니다. 
+		state와 effect, redux까지 활용할 수 있습니다.
   - ES6
+	- 이전 문법들도 알고 있지만, 최신 문법을 선호합니다.
 
 <br/>
 
