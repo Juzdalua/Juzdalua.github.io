@@ -83,6 +83,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 
 ## Certification
 - OPic IM2 (2018.04)
+- ~~정보처리기사 필기만 합격..(2017.08)~~
 
 
 
