@@ -18,6 +18,7 @@ navbar-links:
 #    - Study: "/category/study"
 #    - Diary: "/category/diary"
   Portfolio:
+    - ToMe: "tome"
     - Memorable-games: "memorable-games"
     - 예매를 부탁해 : "plz-res"
   Blog: https://juzdalua.tistory.com/
