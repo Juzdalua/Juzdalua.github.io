@@ -14,8 +14,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 ---
 
 <br/>
-<!-- 
-## Work experience
+<!--## Work experience
 - 2021.12 ~ 현재 / 뉴비즈스타트
 	- PM 겸 백엔드 개발자   
 		- ### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
@@ -36,8 +35,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 				- crontab을 활용한 매월 DB 자동백업시스템 구현.
 			- Data 처리
 				- Admin 페이지 구현. (회원관리, 이벤트관리 등)
-<br/> 
--->
+<br/> -->
 
 ## Skills
 - Back-end
