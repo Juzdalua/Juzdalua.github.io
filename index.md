@@ -14,7 +14,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 ---
 
 <br/>
-
+<!-- 
 ## Work experience
 - 2021.12 ~ 현재 / 뉴비즈스타트
 	- PM 겸 백엔드 개발자   
@@ -36,7 +36,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 				- crontab을 활용한 매월 DB 자동백업시스템 구현.
 			- Data 처리
 				- Admin 페이지 구현. (회원관리, 이벤트관리 등)
-<br/>
+<br/> -->
 
 ## Skills
 - Back-end
@@ -51,8 +51,10 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 - DevOps
   - PostgreSQL, MongoDB
 	- RDB를 선호합니다. PostgreSQL을 자주 사용합니다.
-  - AWS EC2
+  - Cloud
 	- Linux를 좋아합니다. 해커가 된 느낌(?)이라 마우스 없는 코딩을 추구합니다.
+	- AWS EC2, GCP를 활용하여 서버를 구축할 수 있습니다. pm2를 활용하여 무중단 서비스를 배포할 수 있습니다.
+	
 - Front-end
   - ReactJS
 	- VanilaJS가 더욱 익숙합니다. 
