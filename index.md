@@ -36,7 +36,8 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 				- crontab을 활용한 매월 DB 자동백업시스템 구현.
 			- Data 처리
 				- Admin 페이지 구현. (회원관리, 이벤트관리 등)
-<br/> -->
+<br/> 
+-->
 
 ## Skills
 - Back-end
