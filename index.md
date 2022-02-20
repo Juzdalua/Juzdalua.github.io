@@ -14,32 +14,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 ---
 
 <br/>
-<!--
 
-## Work experience
-- 2021.12 ~ 현재 / 뉴비즈스타트
-	- PM 겸 백엔드 개발자   
-		- ### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
-			NodeJS, PostgreSQL, Sequelize
-			- AWS Cloud
-				- EC2/ Pm2를 이용한 무중단 서비스 배포.
-			- Data 처리
-				- Admin 페이지 구현. (회원관리, 건강정보관리 등)
-			- 파일 관리
-				- exceljs를 활용한 DB정보 다운로드 기능 구현.
-				- multer / sharp를 활용한 이미지 리사이징, 용량 및 화질 조절 구현.
-				- fs를 활용한 일자별 디렉토리 구성.
-
-
-		- ### [Spoweek](http://www.spoweek.com) (스포츠 이벤트 서비스 Web)
-			Typescript, PostgreSQL, TypeORM
-			- AWS Cloud
-				- crontab을 활용한 매월 DB 자동백업시스템 구현.
-			- Data 처리
-				- Admin 페이지 구현. (회원관리, 이벤트관리 등)
-<br/> 
-
--->
 
 ## Skills
 - Back-end
@@ -91,7 +66,30 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 - ~~정보처리기사 필기만 합격..(2017.08)~~
 
 
+<!--
+## Work experience
+- 2021.12 ~ 현재 / 뉴비즈스타트
+	- PM 겸 백엔드 개발자   
+		- ### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
+			NodeJS, PostgreSQL, Sequelize
+			- AWS Cloud
+				- EC2/ Pm2를 이용한 무중단 서비스 배포.
+			- Data 처리
+				- Admin 페이지 구현. (회원관리, 건강정보관리 등)
+			- 파일 관리
+				- exceljs를 활용한 DB정보 다운로드 기능 구현.
+				- multer / sharp를 활용한 이미지 리사이징, 용량 및 화질 조절 구현.
+				- fs를 활용한 일자별 디렉토리 구성.
 
+
+		- ### [Spoweek](http://www.spoweek.com) (스포츠 이벤트 서비스 Web)
+			Typescript, PostgreSQL, TypeORM
+			- AWS Cloud
+				- crontab을 활용한 매월 DB 자동백업시스템 구현.
+			- Data 처리
+				- Admin 페이지 구현. (회원관리, 이벤트관리 등)
+<br/> 
+-->
 
 
 <!-- index.md -> index.html로 바꾸고 시작해라
