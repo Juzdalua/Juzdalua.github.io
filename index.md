@@ -15,6 +15,12 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 
 <br/>
 
+## Work experience
+- 2022.03 ~ 현재 / FLFI
+	- 백엔드 개발자   
+		- ### [NFT-Terminal](https://nft-terminal.com/feeds/notables) discover, collection APIs 구현
+			NestJS, Mysql, Prisma
+<br/> 
 
 ## Skills
 - Back-end
