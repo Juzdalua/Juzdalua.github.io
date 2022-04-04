@@ -25,7 +25,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 		- ### [NFT-Console](https://console.nft-terminal.com/)
 			NodeJS, Mysql
 			- Discord.js와 연동된 유저 Verify API 구현
-			- Web3.js를 활용한 ethereum contract 연동 API 구현
+			- Web3.js를 활용한 ethereum contract 연동 API 구현 <br/><br/>  
 
 
 - 2021.12 ~ 2022.02 뉴비즈스타트
