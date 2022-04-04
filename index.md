@@ -16,37 +16,35 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 <br/>
 
 ## Work experience
-- 2022.03 ~ 현재 / FLFI
-	- 백엔드 개발자   
-		- ### [NFT-Terminal](https://nft-terminal.com/feeds/notables)
-			NestJS, Mysql, Prisma
-			- MainPage Discover API 구현
-			- Collection API 구현
-		- ### [NFT-Console](https://console.nft-terminal.com/)
-			NodeJS, Mysql
-			- Discord.js와 연동된 유저 Verify API 구현
-			- Web3.js를 활용한 ethereum contract 연동 API 구현 <br/><br/>  
+- ### 2022.03 ~ 현재 / FLFI (백엔드 개발자)	
+	- #### [NFT-Terminal](https://nft-terminal.com/feeds/notables)
+		NestJS, Mysql, Prisma
+		- MainPage Discover API 구현
+		- Collection API 구현
+	- #### [NFT-Console](https://console.nft-terminal.com/)
+		NodeJS, Mysql
+		- Discord.js와 연동된 유저 Verify API 구현
+		- Web3.js를 활용한 ethereum contract 연동 API 구현 <br/><br/><br/><br/>  
 
 
-- 2021.12 ~ 2022.02 뉴비즈스타트
-	- 백엔드 개발자   
-		- ### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
-			NodeJS, PostgreSQL, Sequelize
-			- AWS Cloud
-				- EC2/ Pm2를 이용한 무중단 서비스 배포.
-			- Data 처리
-				- Admin 페이지 구현. (회원관리, 건강정보관리 등)
-			- 파일 관리
-				- exceljs를 활용한 DB정보 다운로드 기능 구현.
-				- multer / sharp를 활용한 이미지 리사이징, 용량 및 화질 조절 구현.
-				
+- ### 2021.12 ~ 2022.02 뉴비즈스타트 (백엔드 개발자)	
+	- #### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
+		NodeJS, PostgreSQL, Sequelize
+		- AWS Cloud
+			- EC2/ Pm2를 이용한 무중단 서비스 배포.
+		- Data 처리
+			- Admin 페이지 구현. (회원관리, 건강정보관리 등)
+		- 파일 관리
+			- exceljs를 활용한 DB정보 다운로드 기능 구현.
+			- multer / sharp를 활용한 이미지 리사이징, 용량 및 화질 조절 구현.
 
-		- ### [Spoweek](http://spoweek.com) (스포츠 이벤트 서비스 Web)
-			Typescript, PostgreSQL, TypeORM
-			- AWS Cloud
-				- crontab을 활용한 매월 DB 자동백업시스템 구현.
-			- Data 처리
-				- Admin 페이지 구현. (회원관리, 이벤트관리 등)
+
+	- #### [Spoweek](http://spoweek.com) (스포츠 이벤트 서비스 Web)
+		Typescript, PostgreSQL, TypeORM
+		- AWS Cloud
+			- crontab을 활용한 매월 DB 자동백업시스템 구현.
+		- Data 처리
+			- Admin 페이지 구현. (회원관리, 이벤트관리 등)
 
 ---
 
