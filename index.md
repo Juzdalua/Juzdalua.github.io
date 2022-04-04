@@ -27,7 +27,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 		- Web3.js를 활용한 ethereum contract 연동 API 구현 <br/><br/><br/><br/>  
 
 
-- ### 2021.12 ~ 2022.02 뉴비즈스타트 (백엔드 개발자)	
+- ### 2021.12 ~ 2022.02 / 뉴비즈스타트 (백엔드 개발자)	
 	- #### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
 		NodeJS, PostgreSQL, Sequelize
 		- AWS Cloud
