@@ -18,19 +18,48 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 ## Work experience
 - 2022.03 ~ 현재 / FLFI
 	- 백엔드 개발자   
-		- ### [NFT-Terminal](https://nft-terminal.com/feeds/notables) discover, collection APIs 구현
-			- NestJS, Mysql, Prisma
+		- ### [NFT-Terminal](https://nft-terminal.com/feeds/notables)
+			NestJS, Mysql, Prisma
+			- MainPage Discover API 구현
+			- Collection API 구현
+		- ### [NFT-Console](https://console.nft-terminal.com/)
+			NodeJS, Mysql
+			- Discord.js와 연동된 유저 Verify API 구현
+			- Web3.js를 활용한 ethereum contract 연동 API 구현
+
+
+- 2021.12 ~ 2022.02 뉴비즈스타트
+	- 백엔드 개발자   
+		- ### [케어봄](https://www.junctionmed.com/) (시니어 돌봄 서비스 App)
+			NodeJS, PostgreSQL, Sequelize
+			- AWS Cloud
+				- EC2/ Pm2를 이용한 무중단 서비스 배포.
+			- Data 처리
+				- Admin 페이지 구현. (회원관리, 건강정보관리 등)
+			- 파일 관리
+				- exceljs를 활용한 DB정보 다운로드 기능 구현.
+				- multer / sharp를 활용한 이미지 리사이징, 용량 및 화질 조절 구현.
+				
+
+		- ### [Spoweek](http://spoweek.com) (스포츠 이벤트 서비스 Web)
+			Typescript, PostgreSQL, TypeORM
+			- AWS Cloud
+				- crontab을 활용한 매월 DB 자동백업시스템 구현.
+			- Data 처리
+				- Admin 페이지 구현. (회원관리, 이벤트관리 등)
 <br/> 
 
 ## Skills
 - Back-end
-  - NodeJS
+  - NodeJS, NestJS
 	- Java가 폐쇄적이라 생각하여 선택한 언어입니다. 함수형 프로그래밍을 선호합니다.
-  - Sequelize
-	- 가장 능숙하게 활용할 수 있는 DB Tool입니다.
+	- 높은 자유도의 JS를 사용하다보니 정형화된 구조가 매력적으로 다가왔습니다. 
+	- 현재는 TS기반 NestJS를 주로 사용합니다.
+  - Prisma, TypeORM, Sequelize
+	- 상황에 따라 ORM과 RawQuery를 사용합니다.
 - DevOps
-  - PostgreSQL, MongoDB
-	- RDB를 선호합니다. PostgreSQL을 자주 사용합니다.
+  - PostgreSQL, MySQL
+	- RDB를 선호합니다.
   - Cloud
 	- Linux를 좋아합니다. 해커가 된 느낌(?)이라 마우스 없는 코딩을 추구합니다.
 	- AWS EC2, GCP를 활용하여 서버를 구축할 수 있습니다. pm2를 활용하여 무중단 서비스를 배포할 수 있습니다.
@@ -40,7 +69,7 @@ NodeJS와 RDBMS, Linux에 흥미를 갖고 있습니다.<br/>
 	- VanilaJS가 더욱 익숙합니다. 
 		완벽히 이해하지는 못했지만, 어떻게 구현해야 Backend와 연결할 수 있는지 이해하고 있습니다. 
 		state와 effect, redux까지 활용할 수 있습니다.
-  - React-Native
+  - React-Native, VueJS3
 	- 백엔드와 연동하기 위한 코드를 파악할 수 있습니다. 공식문서 Component와 커뮤니티 패키지를 활용할 수 있습니다.
   - ES6
 	- 이전 문법들도 알고 있지만, 최신 문법을 선호합니다.
